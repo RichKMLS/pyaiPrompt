@@ -1,0 +1,69 @@
+    html, body {margin: 0; height: 100%; overflow: hidden}
+        body {
+            background-color: #1c1c1e;
+            color: white;
+            font-family: sans-serif;
+        }
+        
+    .header {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom: 10px;
+        }
+    .splitter {
+        background-color: #3a3a3c;
+    }
+    
+
+    
+    #code_box,
+    #context_box {
+        background-color: #222224;
+        border: none;
+        color: white;
+        font-family: monospace;
+        padding: 10px;
+    }
+    
+    #output_box {
+        background-color: #131314;
+        border: none;
+        color: white;
+        font-family: monospace;
+        padding: 10px;
+    }  
+    
+    
+	#div {
+	    height: 99%;
+	    width: 100vw;
+	    overflow: none; /*  Fixed a typo here */
+	}    
+
+  /* This is the style sheet for the buttons*/
+  .button {
+    background-color: #333; /* This sets the background color of the buttons to a dark gray*/
+    color: white; /* This sets the text color of the buttons to white*/
+    border: none; /* This removes the border of the buttons*/
+    padding: 10px 20px; /* This sets the padding of the buttons*/
+    cursor: pointer; /* This changes the cursor to a pointer when hovering over the buttons*/
+    height: 24px; /* This sets the height of the buttons*/
+    display: flex; /* This makes the buttons flexible and responsive*/
+    align-items: center; /* This aligns the text vertically in the buttons*/
+    justify-content: center; /* This aligns the text horizontally in the buttons*/
+    margin-top: 3px; /* This sets the top margin of the buttons*/
+    margin-bottom: 3px; /* This sets the bottom margin of the buttons*/
+  }
+
+  .button:hover {
+    background-color: #555; /* This changes the background color of the buttons to a lighter gray when hovering over them*/
+    color: #fff; /* This keeps the text color of the buttons white when hovering over them*/
+  }
+
+  .button-container {
+    width: 70%; /* This sets the width of the container that holds the buttons*/
+    display: flex; /* This makes the container flexible and responsive*/
+    justify-content: flex-end; /* This aligns the buttons to the right of the container*/
+    align-items: center; /* This aligns the buttons vertically in the container*/
+  }
+    
