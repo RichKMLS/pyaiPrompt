@@ -66,4 +66,18 @@
     justify-content: flex-end; /* This aligns the buttons to the right of the container*/
     align-items: center; /* This aligns the buttons vertically in the container*/
   }
-    
+
+#handle {
+    width: 20px;
+    height: 10%;
+    position: absolute;
+    top: 10%;
+    left: -20px;
+    background-color: lightgreen;
+    z-index: 1;
+    clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 90%);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: -5px 0px 5px rgba(0, 0, 0, 0.5);
+}
+
