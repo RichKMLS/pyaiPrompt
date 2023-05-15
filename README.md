@@ -10,6 +10,7 @@ An automatic prompt engineering focused backend debugs, cleans, and formats your
 
 # --- work in progress ---
 
+This project aims to make programming easier, faster, and more fun for developers of all levels. It is inspired by the idea that coding should not be a tedious or frustrating process, but a creative and enjoyable one.
 
 ## A Responsive UI for the New Programming Workflow
 
@@ -18,3 +19,5 @@ The web application consists of three main components: a code editor, a context 
 It uses a responsive UI that allows the user to resize and expand the three boxes according to their preference. The user can drag the splitters between the boxes to adjust their height, or double click on any box to make it fill the screen. The code editor and the output box are both powered by CodeMirror, a versatile text editor that supports syntax highlighting, auto-completion, and line wrapping.
 
 It currently is leveraging Bing AI to generate outputs. pyaiPrompt then formats the text sent from Bing AI so that only the relevant code will appear in the output.
+
+
