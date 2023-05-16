@@ -8,6 +8,7 @@ pyaiPrompt is designed to enhance your creativity and improve your productivity.
 </p>
 
 The goal of this project is to make programming easier and more enjoyable for developers at all levels. It is inspired by the idea that coding should not be a tedious or frustrating process, but a creative and enjoyable one.
+<br><br>
 
 ## User-Friendly Interface
 
@@ -16,14 +17,17 @@ pyaiPrompt is a web application with three main parts: a code editor, a context 
 You can change the size of the three boxes to fit your needs. You can drag the lines between the boxes to change their height or double-click on any box to make it fill the screen. The code editor and output box both use CodeMirror, which is a text editor that can highlight syntax, complete words automatically, and wrap lines.
 
 pyaiPrompt leverages Bing AI to generate outputs. pyaiPrompt then formats the text from Bing AI so that only the relevant code appears in the output.
+<br><br>
 
 ## Work in Progress
 
 This project is still being developed.
+<br><br>
 
 ## Why Bing AI?
 
-It's free.
+<img src="https://github.com/RichKMLS/pyaiPrompt/assets/105183376/37d5f754-ba2f-4968-9566-173c970cd87e" width="33%"/>
+
 
 
 
