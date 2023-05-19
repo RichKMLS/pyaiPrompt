@@ -1,6 +1,6 @@
 # pyaiPrompt:<br>Efficient Programming in Any Language
 
-pyaiPrompt is designed to enhance your creativity and improve your productivity. With an automatic prompt engineering-focused backend, pyaiPrompt debugs, cleans, and formats your code.
+pyaiPrompt is designed to enhance your creativity and improve your productivity. With an automatic prompt engineering-focused backend, pyaiPrompt can create, debug, clean, and format code based on your ideas.
 
 <p align="center">
   <img src="https://github.com/RichKMLS/pyaiPrompt/assets/105183376/7479dd61-73e3-44bb-886b-bf2bab4ccd46"/>
